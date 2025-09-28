@@ -4,7 +4,7 @@
 
 ### Overview
 
-TBD
+Simulate creating a system to track customer orders for a local cafe, which stores their drinks and pastries in a 2D array, where each row represents each category, and each column represents an item in that category. The assignment is to use the `.length` property to track the number of items in the cafe's order system dynamically.
 
 ### How to Run
 
