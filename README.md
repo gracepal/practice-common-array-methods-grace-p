@@ -22,4 +22,4 @@ Simulate creating a system to track customer orders for a local cafe, which stor
 
 ### Example Program Output Reference
 
-WIP
+<img width="523" height="341" alt="launchcode_common-array-methods" src="https://github.com/user-attachments/assets/5a93dec2-e4c3-457f-8055-7244fc9f3cd2" />
